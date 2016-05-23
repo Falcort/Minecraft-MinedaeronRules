@@ -1,0 +1,10 @@
+name: MinedaeronRules
+version : 0.2
+main: MinedaeronRules.MinedaeronRules
+author: Falcort
+website: http://thibaultsouquet.fr/
+description: This plugin add a rule command, that ad a book with the server rules.
+commands:
+  regles:
+    description: Vous donne le livre de regles du serveur.
+    usage: /regles
